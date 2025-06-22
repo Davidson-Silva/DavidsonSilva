@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Davidson, tenho 25 anos e moro em Campinas Sp. Formado em Análise e Desenvolvimento de Sistemas na faculdade Anhanguera, apaixonado por tecnologia e um entusiasta na área da programação.
+Olá, chamo Davidson, tenho 25 anos e moro em Campinas Sp. Formado em Análise e Desenvolvimento de Sistemas na faculdade Anhanguera, apaixonado por tecnologia e um entusiasta na área da programação.
 
 <p align="left">   
       <a href="https://github.com/Davidson-Silva?tab=repositories&sort=stargazers">
