@@ -2,10 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é Davidson, tenho 25 anos e moro em Campinas Sp. 
-<br>
-Sou formado em Análise e Desenvolvimento de Sistemas na faculdade Anhanguera, entusiasta na área da programação apaixonado por tecnologia.
-<br/>
+Olá, meu nome é Davidson.
+
+<br>🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera.<br/>
+<br>📚 Atualmente focado nos estudos, com interesse especial em Cybersecurity, Front-End e Inglês técnico.<br/>
+<br>🐧 Conhecimentos básicos em Linux, HTML, CSS, JavaScript e Python.<br/>
+<br>🚀 Sou movido pela curiosidade e pela vontade de aprender constantemente.<br/>
+<br>🤝 Gosto de trabalhar em equipe e contribuir com ideias e soluções em projetos colaborativos.<br/>
+
 
 <p align="left">   
       <a href="https://github.com/Davidson-Silva?tab=repositories&sort=stargazers">
